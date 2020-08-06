@@ -1,0 +1,34 @@
+<user>
+  <teacher>
+    <username>lielaoshi</username>
+    <password>321</password>
+    <type>teacher</type>
+    <name>裂老师</name>
+    <school>滑里稽大学</school>
+    <department>计算机系</department>
+  </teacher>
+  <student>
+    <username>nnn</username>
+    <password>123</password>
+    <type>student</type>
+    <name>牛楠楠</name>
+    <school>滑里稽大学</school>
+    <department>计算机系</department>
+  </student>
+  <student>
+    <username>qqq</username>
+    <password>abc123</password>
+    <type>student</type>
+    <name>起球球</name>
+    <school>滑里稽大学</school>
+    <department>计算机系</department>
+  </student>
+  <teacher>
+    <username>linlaoshi</username>
+    <password>123456</password>
+    <type>teacher</type>
+    <name>林老师</name>
+    <school>滑里稽大学</school>
+    <department>计算机系</department>
+  </teacher>
+</user>

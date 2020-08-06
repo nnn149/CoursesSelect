@@ -1,0 +1,115 @@
+c:\users\nnn14\documents\visual studio 2010\Projects\期末作业\选课系统\bin\Debug\选课系统.exe
+c:\users\nnn14\documents\visual studio 2010\Projects\期末作业\选课系统\bin\Debug\选课系统.pdb
+c:\users\nnn14\documents\visual studio 2010\Projects\期末作业\选课系统\obj\x86\Debug\MainWindow.baml
+c:\users\nnn14\documents\visual studio 2010\Projects\期末作业\选课系统\obj\x86\Debug\MainWindow.g.cs
+c:\users\nnn14\documents\visual studio 2010\Projects\期末作业\选课系统\obj\x86\Debug\App.g.cs
+c:\users\nnn14\documents\visual studio 2010\Projects\期末作业\选课系统\obj\x86\Debug\选课系统_MarkupCompile.cache
+c:\users\nnn14\documents\visual studio 2010\Projects\期末作业\选课系统\obj\x86\Debug\选课系统.g.resources
+c:\users\nnn14\documents\visual studio 2010\Projects\期末作业\选课系统\obj\x86\Debug\选课系统.Properties.Resources.resources
+c:\users\nnn14\documents\visual studio 2010\Projects\期末作业\选课系统\obj\x86\Debug\选课系统.csproj.GenerateResource.Cache
+c:\users\nnn14\documents\visual studio 2010\Projects\期末作业\选课系统\obj\x86\Debug\选课系统.exe
+c:\users\nnn14\documents\visual studio 2010\Projects\期末作业\选课系统\obj\x86\Debug\选课系统.pdb
+C:\Users\nnn14\documents\visual studio 2010\Projects\期末作业\选课系统\obj\x86\Debug\WindowLogin.baml
+C:\Users\nnn14\documents\visual studio 2010\Projects\期末作业\选课系统\obj\x86\Debug\WindowLogin.g.cs
+C:\Users\nnn14\documents\visual studio 2010\Projects\期末作业\选课系统\obj\x86\Debug\WindowChangePsw.baml
+C:\Users\nnn14\documents\visual studio 2010\Projects\期末作业\选课系统\obj\x86\Debug\WindowChangePsw.g.cs
+C:\Users\nnn14\documents\visual studio 2010\Projects\期末作业\选课系统\obj\x86\Debug\WindowAddCourse.baml
+C:\Users\nnn14\documents\visual studio 2010\Projects\期末作业\选课系统\obj\x86\Debug\WindowAddCourse.g.cs
+C:\Documents and Settings\Administrator\桌面\c#\期末作业\选课系统\obj\x86\Debug\选课系统.exe
+C:\Documents and Settings\Administrator\桌面\c#\期末作业\选课系统\obj\x86\Debug\选课系统.pdb
+C:\Documents and Settings\Administrator\桌面\c#\期末作业\选课系统\bin\Debug\选课系统.exe
+C:\Documents and Settings\Administrator\桌面\c#\期末作业\选课系统\bin\Debug\选课系统.pdb
+C:\Documents and Settings\Administrator\桌面\c#\期末作业\选课系统\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\c#\期末作业\选课系统\obj\x86\Debug\MainWindow.baml
+C:\Documents and Settings\Administrator\桌面\c#\期末作业\选课系统\obj\x86\Debug\WindowAddCourse.baml
+C:\Documents and Settings\Administrator\桌面\c#\期末作业\选课系统\obj\x86\Debug\WindowChangePsw.baml
+C:\Documents and Settings\Administrator\桌面\c#\期末作业\选课系统\obj\x86\Debug\WindowLogin.baml
+C:\Documents and Settings\Administrator\桌面\c#\期末作业\选课系统\obj\x86\Debug\MainWindow.g.cs
+C:\Documents and Settings\Administrator\桌面\c#\期末作业\选课系统\obj\x86\Debug\WindowAddCourse.g.cs
+C:\Documents and Settings\Administrator\桌面\c#\期末作业\选课系统\obj\x86\Debug\WindowChangePsw.g.cs
+C:\Documents and Settings\Administrator\桌面\c#\期末作业\选课系统\obj\x86\Debug\WindowLogin.g.cs
+C:\Documents and Settings\Administrator\桌面\c#\期末作业\选课系统\obj\x86\Debug\App.g.cs
+C:\Documents and Settings\Administrator\桌面\c#\期末作业\选课系统\obj\x86\Debug\选课系统_MarkupCompile.cache
+C:\Documents and Settings\Administrator\桌面\c#\期末作业\选课系统\obj\x86\Debug\选课系统.g.resources
+C:\Documents and Settings\Administrator\桌面\c#\期末作业\选课系统\obj\x86\Debug\选课系统.Properties.Resources.resources
+C:\Documents and Settings\Administrator\桌面\c#\期末作业\选课系统\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Administrator\桌面\c#\期末作业\选课系统\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\c#\期末作业\选课系统\obj\x86\Debug\选课系统.exe
+D:\c#\期末作业\选课系统\obj\x86\Debug\选课系统.pdb
+D:\c#\期末作业\选课系统\bin\Debug\选课系统.exe
+D:\c#\期末作业\选课系统\bin\Debug\选课系统.pdb
+D:\c#\期末作业\选课系统\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\c#\期末作业\选课系统\obj\x86\Debug\MainWindow.baml
+D:\c#\期末作业\选课系统\obj\x86\Debug\WindowAddCourse.baml
+D:\c#\期末作业\选课系统\obj\x86\Debug\WindowChangePsw.baml
+D:\c#\期末作业\选课系统\obj\x86\Debug\WindowLogin.baml
+D:\c#\期末作业\选课系统\obj\x86\Debug\MainWindow.g.cs
+D:\c#\期末作业\选课系统\obj\x86\Debug\WindowAddCourse.g.cs
+D:\c#\期末作业\选课系统\obj\x86\Debug\WindowChangePsw.g.cs
+D:\c#\期末作业\选课系统\obj\x86\Debug\WindowLogin.g.cs
+D:\c#\期末作业\选课系统\obj\x86\Debug\App.g.cs
+D:\c#\期末作业\选课系统\obj\x86\Debug\选课系统_MarkupCompile.cache
+D:\c#\期末作业\选课系统\obj\x86\Debug\选课系统.g.resources
+D:\c#\期末作业\选课系统\obj\x86\Debug\选课系统.Properties.Resources.resources
+D:\c#\期末作业\选课系统\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\c#\期末作业\选课系统\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\nnn14\Desktop\期末作业\选课系统\obj\x86\Debug\选课系统.exe
+C:\Users\nnn14\Desktop\期末作业\选课系统\obj\x86\Debug\选课系统.pdb
+C:\Users\nnn14\Desktop\期末作业\选课系统\bin\Debug\选课系统.exe
+C:\Users\nnn14\Desktop\期末作业\选课系统\bin\Debug\选课系统.pdb
+C:\Users\nnn14\Desktop\期末作业\选课系统\obj\x86\Debug\MainWindow.baml
+C:\Users\nnn14\Desktop\期末作业\选课系统\obj\x86\Debug\WindowAddCourse.baml
+C:\Users\nnn14\Desktop\期末作业\选课系统\obj\x86\Debug\WindowChangePsw.baml
+C:\Users\nnn14\Desktop\期末作业\选课系统\obj\x86\Debug\WindowLogin.baml
+C:\Users\nnn14\Desktop\期末作业\选课系统\obj\x86\Debug\MainWindow.g.cs
+C:\Users\nnn14\Desktop\期末作业\选课系统\obj\x86\Debug\WindowAddCourse.g.cs
+C:\Users\nnn14\Desktop\期末作业\选课系统\obj\x86\Debug\WindowChangePsw.g.cs
+C:\Users\nnn14\Desktop\期末作业\选课系统\obj\x86\Debug\WindowLogin.g.cs
+C:\Users\nnn14\Desktop\期末作业\选课系统\obj\x86\Debug\App.g.cs
+C:\Users\nnn14\Desktop\期末作业\选课系统\obj\x86\Debug\选课系统_MarkupCompile.cache
+C:\Users\nnn14\Desktop\期末作业\选课系统\obj\x86\Debug\选课系统.g.resources
+C:\Users\nnn14\Desktop\期末作业\选课系统\obj\x86\Debug\选课系统.Properties.Resources.resources
+C:\Users\nnn14\Desktop\期末作业\选课系统\obj\x86\Debug\选课系统.csproj.GenerateResource.Cache
+D:\期末作业1\选课系统\obj\x86\Debug\选课系统.exe
+D:\期末作业1\选课系统\obj\x86\Debug\选课系统.pdb
+D:\期末作业1\选课系统\bin\Debug\选课系统.exe
+D:\期末作业1\选课系统\bin\Debug\选课系统.pdb
+D:\期末作业1\选课系统\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\期末作业1\选课系统\obj\x86\Debug\MainWindow.baml
+D:\期末作业1\选课系统\obj\x86\Debug\WindowAddCourse.baml
+D:\期末作业1\选课系统\obj\x86\Debug\WindowChangePsw.baml
+D:\期末作业1\选课系统\obj\x86\Debug\WindowLogin.baml
+D:\期末作业1\选课系统\obj\x86\Debug\MainWindow.g.cs
+D:\期末作业1\选课系统\obj\x86\Debug\WindowAddCourse.g.cs
+D:\期末作业1\选课系统\obj\x86\Debug\WindowChangePsw.g.cs
+D:\期末作业1\选课系统\obj\x86\Debug\WindowLogin.g.cs
+D:\期末作业1\选课系统\obj\x86\Debug\App.g.cs
+D:\期末作业1\选课系统\obj\x86\Debug\选课系统_MarkupCompile.cache
+D:\期末作业1\选课系统\obj\x86\Debug\选课系统.g.resources
+D:\期末作业1\选课系统\obj\x86\Debug\选课系统.Properties.Resources.resources
+D:\期末作业1\选课系统\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\期末作业1\选课系统\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\期末作业1\选课系统\obj\x86\Debug\WindowSeach.baml
+D:\期末作业1\选课系统\obj\x86\Debug\WindowSeach.g.cs
+C:\Users\nnn14\Desktop\期末作业\选课系统\obj\x86\Debug\WindowSeach.baml
+C:\Users\nnn14\Desktop\期末作业\选课系统\obj\x86\Debug\WindowSeach.g.cs
+D:\OneDrive\期末作业\选课系统\obj\x86\Debug\选课系统.exe
+D:\OneDrive\期末作业\选课系统\obj\x86\Debug\选课系统.pdb
+D:\OneDrive\期末作业\选课系统\bin\Debug\选课系统.exe
+D:\OneDrive\期末作业\选课系统\bin\Debug\选课系统.pdb
+D:\OneDrive\期末作业\选课系统\obj\x86\Debug\选课系统.csprojResolveAssemblyReference.cache
+D:\OneDrive\期末作业\选课系统\obj\x86\Debug\MainWindow.baml
+D:\OneDrive\期末作业\选课系统\obj\x86\Debug\WindowAddCourse.baml
+D:\OneDrive\期末作业\选课系统\obj\x86\Debug\WindowChangePsw.baml
+D:\OneDrive\期末作业\选课系统\obj\x86\Debug\WindowLogin.baml
+D:\OneDrive\期末作业\选课系统\obj\x86\Debug\WindowSeach.baml
+D:\OneDrive\期末作业\选课系统\obj\x86\Debug\MainWindow.g.cs
+D:\OneDrive\期末作业\选课系统\obj\x86\Debug\WindowAddCourse.g.cs
+D:\OneDrive\期末作业\选课系统\obj\x86\Debug\WindowChangePsw.g.cs
+D:\OneDrive\期末作业\选课系统\obj\x86\Debug\WindowLogin.g.cs
+D:\OneDrive\期末作业\选课系统\obj\x86\Debug\WindowSeach.g.cs
+D:\OneDrive\期末作业\选课系统\obj\x86\Debug\App.g.cs
+D:\OneDrive\期末作业\选课系统\obj\x86\Debug\选课系统_MarkupCompile.cache
+D:\OneDrive\期末作业\选课系统\obj\x86\Debug\选课系统.g.resources
+D:\OneDrive\期末作业\选课系统\obj\x86\Debug\选课系统.Properties.Resources.resources
+D:\OneDrive\期末作业\选课系统\obj\x86\Debug\选课系统.csproj.GenerateResource.Cache

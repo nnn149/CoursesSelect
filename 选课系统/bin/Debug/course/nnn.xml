@@ -1,0 +1,24 @@
+<courses>
+  <course>
+    <name>毛泽东思想和中国特色社会主义理论体系概论</name>
+    <id>0009</id>
+    <type>选修课</type>
+    <alltime>24小时</alltime>
+    <teachtime>20小时</teachtime>
+    <studytime>4小时</studytime>
+    <credit>4</credit>
+    <semester>2018上学期</semester>
+    <mark>无</mark>
+  </course>
+  <course>
+    <name>体育</name>
+    <id>0013</id>
+    <type>选修课</type>
+    <alltime>24小时</alltime>
+    <teachtime>20小时</teachtime>
+    <studytime>4小时</studytime>
+    <credit>4</credit>
+    <semester>2018上学期</semester>
+    <mark>无</mark>
+  </course>
+</courses>

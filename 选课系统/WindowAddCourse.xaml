@@ -1,0 +1,26 @@
+﻿<Window x:Class="选课系统.WindowAddCourse"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="添加课程" Height="315" Width="617" ResizeMode="NoResize" Icon="/选课系统;component/images/add.ico" Loaded="Window_Loaded">
+    <Grid>
+        <Label Content="课程编号:" Height="28" HorizontalAlignment="Left" Margin="61,17,0,0" Name="label1" VerticalAlignment="Top" />
+        <Label Content="课程名称:" Height="28" HorizontalAlignment="Left" Margin="61,52,0,0" Name="label2" VerticalAlignment="Top" Width="61" />
+        <Label Content="课程性质:" Height="28" HorizontalAlignment="Left" Margin="61,90,0,0" Name="label3" VerticalAlignment="Top" />
+        <Label Content="总学时:" Height="28" HorizontalAlignment="Left" Margin="61,124,0,0" Name="label4" VerticalAlignment="Top" />
+        <Label Content="授课学时" Height="28" HorizontalAlignment="Left" Margin="301,19,0,0" Name="label5" VerticalAlignment="Top" />
+        <Label Content="实验或上机学时:" Height="28" HorizontalAlignment="Left" Margin="301,54,0,0" Name="label6" VerticalAlignment="Top" />
+        <Label Content="学分:" Height="28" HorizontalAlignment="Left" Margin="301,90,0,0" Name="label7" VerticalAlignment="Top" />
+        <Label Content="开学学期:" Height="28" HorizontalAlignment="Left" Margin="301,124,0,0" Name="label8" VerticalAlignment="Top" />
+        <Label Content="备注:" Height="28" HorizontalAlignment="Left" Margin="61,158,0,0" Name="label9" VerticalAlignment="Top" />
+        <TextBox Height="23" HorizontalAlignment="Left" Margin="131,19,0,0" Name="txtId" VerticalAlignment="Top" Width="120" />
+        <TextBox Height="23" HorizontalAlignment="Left" Margin="131,54,0,0" Name="txtName" VerticalAlignment="Top" Width="120" />
+        <TextBox Height="23" HorizontalAlignment="Left" Margin="131,90,0,0" Name="txtType" VerticalAlignment="Top" Width="120" Text="选修课" />
+        <TextBox Height="23" HorizontalAlignment="Left" Margin="131,126,0,0" Name="txtAllTime" VerticalAlignment="Top" Width="120" Text="24小时" />
+        <TextBox Height="23" HorizontalAlignment="Left" Margin="411,17,0,0" Name="txtTeachTime" VerticalAlignment="Top" Width="120" Text="20小时" />
+        <TextBox Height="23" HorizontalAlignment="Left" Margin="411,52,0,0" Name="txtStudyTime" VerticalAlignment="Top" Width="120" Text="4小时" />
+        <TextBox Height="23" HorizontalAlignment="Left" Margin="411,90,0,0" Name="txtCredit" VerticalAlignment="Top" Width="120" Text="4" />
+        <TextBox Height="23" HorizontalAlignment="Left" Margin="411,124,0,0" Name="txtSemester" VerticalAlignment="Top" Width="120" Text="2018上学期" />
+        <TextBox Height="23" HorizontalAlignment="Left" Margin="131,160,0,0" Name="txtMark" VerticalAlignment="Top" Width="400" Text="无" />
+        <Button Content="添加" Height="23" HorizontalAlignment="Left" Margin="266,202,0,0" Name="btnAdd" VerticalAlignment="Top" Width="75" Click="btnAdd_Click" />
+    </Grid>
+</Window>

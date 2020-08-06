@@ -1,0 +1,142 @@
+﻿<Window x:Class="选课系统.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="选课系统" Height="678" Width="1125" Loaded="Window_Loaded" Visibility="Visible" Icon="/选课系统;component/images/p.ico">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="20"></RowDefinition>
+            <RowDefinition Height="35"></RowDefinition>
+            <RowDefinition Height="48"></RowDefinition>
+            <RowDefinition Height="88*"></RowDefinition>
+            <RowDefinition Height="30"></RowDefinition>
+        </Grid.RowDefinitions>
+        <DockPanel Grid.Row="0">
+            <Menu Name="menu" FontSize="14" >
+                <MenuItem Header="用户">
+                    <MenuItem Name="mitemLogin" Header="登录" Click="btnLogin_Click">
+                        <MenuItem.Icon>
+                            <Image Width="16" Height="16" Source="/选课系统;component/images/login.ico" />
+                        </MenuItem.Icon>
+                    </MenuItem>
+                    <MenuItem Name="mitemChangePsw" Header="修改密码" Click="mitemChangePsw_Click">
+                        <MenuItem.Icon>
+                            <Image Width="16" Height="16"  Source="/选课系统;component/images/psw.ico" />
+                        </MenuItem.Icon>
+                    </MenuItem>
+                    <MenuItem  Name="mitemExit" Header="退出" Click="mitemExit_Click">
+                        <MenuItem.Icon>
+                            <Image Width="16" Height="16"  Source="/选课系统;component/images/exit.ico" />
+                        </MenuItem.Icon>
+                    </MenuItem>
+                    
+                </MenuItem>
+                <MenuItem Header="工具">
+                    <MenuItem Name="mitemAdd" Header="添加课程" Click="btnAdd_Click">
+                        <MenuItem.Icon>
+                            <Image Source="/选课系统;component/images/add.ico" />
+                        </MenuItem.Icon>
+                    </MenuItem>
+                    <MenuItem Name="mitemSelect" Header="查询课程" Click="btnSeach_Click">
+                        <MenuItem.Icon>
+                            <Image Source="/选课系统;component/images/seach.ico" />
+                        </MenuItem.Icon>
+                    </MenuItem>
+                </MenuItem>
+            </Menu>
+        </DockPanel>
+                
+        <StackPanel Grid.Row="1" Orientation="Horizontal" >
+            <Label FontSize="18">用户名:</Label>
+            <Label Name="labUser" FontSize="18"></Label>
+            <Label FontSize="18">姓名:</Label>
+            <Label Name="labName" FontSize="18"></Label>
+            <Label FontSize="18">学院:</Label>
+            <Label Name="labSchool" FontSize="18"></Label>
+            <Label FontSize="18">专业:</Label>
+            <Label Name="labDepartment" FontSize="18"></Label>
+            <Label FontSize="18">类型:</Label>
+            <Label Name="labType" FontSize="18"></Label>
+        </StackPanel>
+        <Border Grid.Row="1" BorderBrush="Black" BorderThickness="1"></Border>
+        <DockPanel Grid.Row="2">
+            <ToolBar ToolBarTray.IsLocked="True">
+                <ToolBar.Items>
+                    <Button Width="48" Height="48" Name="btnLogin" Click="btnLogin_Click">
+                        <Button.Content>
+                            <Image Source="images/login.ico"></Image>
+                        </Button.Content>
+                    </Button>
+                    <Button Width="48" Height="48" Name="btnChangePsw" Click="btnChangePsw_Click">
+                        <Button.Content>
+                            <Image Source="images/psw.ico"></Image>
+                        </Button.Content>
+                    </Button>
+                    <Button Width="48" Height="48" Name="btnAdd" Click="btnAdd_Click">
+                        <Button.Content>
+                            <Image Source="images/add.ico"></Image>
+                        </Button.Content>
+                    </Button>
+                    <Button Width="48" Height="48" Name="btnSeach" Click="btnSeach_Click">
+                        <Button.Content>
+                            <Image Source="images/seach.ico"></Image>
+                        </Button.Content>
+                    </Button>
+                    <Button Width="48" Height="48" Name="btnExit"  Click="btnExit_Click">
+                        <Button.Content>
+                            <Image Source="images/exit.ico"></Image>
+                        </Button.Content>
+                    </Button>
+                    <Separator/>
+                    <RadioButton Name="rbtnList" IsChecked="False" Checked="rbtnList_Checked" Visibility="Hidden" IsEnabled="True">课程列表</RadioButton>
+                    <RadioButton Name="rbtnSelect" Visibility="Hidden" Checked="rbtnSelect_Checked" IsEnabled="True">已选列表</RadioButton>
+                </ToolBar.Items>
+            </ToolBar>
+            
+        </DockPanel>
+        <Border Grid.Row="3" BorderBrush="Black" BorderThickness="1"></Border>
+        <Grid Grid.Row="3">
+            <Grid.RowDefinitions>
+                <RowDefinition ></RowDefinition>
+                <RowDefinition Height="30"></RowDefinition>
+            </Grid.RowDefinitions>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition></ColumnDefinition>
+                <ColumnDefinition></ColumnDefinition>
+            </Grid.ColumnDefinitions>
+            <ListView FontSize="18" Name="listCourse" Grid.Row="0" Grid.ColumnSpan="2" SelectionMode="Multiple" SelectionChanged="listCourse_SelectionChanged">
+                <ListView.View>
+                    <GridView>
+                        <GridViewColumn Header="课程编号" DisplayMemberBinding="{Binding Path=Id}" Width="80"></GridViewColumn>
+                        <GridViewColumn Header="课程名称" DisplayMemberBinding="{Binding Path=Name}"  Width="200"></GridViewColumn>
+                        <GridViewColumn Header="课程性质" DisplayMemberBinding="{Binding Path=Type}" Width="100"></GridViewColumn>
+                        <GridViewColumn Header="总学时" DisplayMemberBinding="{Binding Path=AllTime}" Width="70"></GridViewColumn>
+                        <GridViewColumn Header="授课学时" DisplayMemberBinding="{Binding Path=TeachTime}"  Width="80"></GridViewColumn>
+                        <GridViewColumn Header="实验上机学时" DisplayMemberBinding="{Binding Path=StudyTime}"  Width="120"></GridViewColumn>
+                        <GridViewColumn Header="学分" DisplayMemberBinding="{Binding Path=Credit}"></GridViewColumn>
+                        <GridViewColumn Header="开学学期" DisplayMemberBinding="{Binding Path=Semester}" Width="150"></GridViewColumn>
+                        <GridViewColumn Header="备注"  DisplayMemberBinding="{Binding Path=Mark}" Width="300"></GridViewColumn>
+                    </GridView>
+                </ListView.View>
+            </ListView>
+            <StackPanel Grid.Row="1" Orientation="Horizontal" >
+                <Button FontSize="18" Name="btnAllSelect" Click="btnAllSelect_Click">全选</Button>
+                <Button FontSize="18" Name="btnDelete" Click="btnDelete_Click" Visibility="Collapsed">删除</Button>
+                <Button FontSize="18" Name="btnRest" Click="btnRest_Click">刷新</Button>
+            </StackPanel>
+            <StackPanel Grid.Row="1" Grid.Column="1" Orientation="Horizontal" >
+                <Button Name="btnRef" FontSize="18" Click="btnRef_Click" Visibility="Hidden">提交</Button>
+            </StackPanel>
+        </Grid>
+        <DockPanel Grid.Row="4">
+            <StatusBar>
+                <StatusBar.Items>
+                    <Label  Name="labTime">初始化...</Label>
+                    <Separator/>
+                    <Label Name="labIsLogin">离线,请登录</Label>
+                    <Separator/>
+                    <Label Name="labCount">已选课程：0</Label>
+                </StatusBar.Items>
+            </StatusBar>
+        </DockPanel>
+    </Grid>
+</Window>
